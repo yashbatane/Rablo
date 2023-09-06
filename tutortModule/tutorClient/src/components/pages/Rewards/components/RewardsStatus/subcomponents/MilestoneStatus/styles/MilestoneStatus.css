@@ -1,0 +1,35 @@
+.milestonestatus {
+  width: 11.875rem;
+}
+.milestonestatus .milestonestatus-top .milestonestatus-top-head {
+  font-family: "Poppins";
+  color: #bac5fd;
+  font-style: normal;
+  font-weight: 550;
+  font-size: 0.972rem;
+  text-align: center;
+}
+.milestonestatus .milestonestatus-top .milestonestatus-top-title {
+  color: #5271ff;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.972rem;
+  text-align: center;
+}
+.milestonestatus .milestonestatus-middle {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  margin-top: 1rem;
+}
+.milestonestatus .milestonestatus-middle div {
+  font-size: 0.729rem;
+  font-weight: 600;
+}
+.milestonestatus .milestonestatus-bottom {
+  width: 0%;
+  height: 5rem;
+  margin: auto;
+  border-left: 1px dashed;
+}/*# sourceMappingURL=MilestoneStatus.css.map */

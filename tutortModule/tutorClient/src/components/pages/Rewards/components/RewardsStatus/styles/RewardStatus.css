@@ -1,0 +1,49 @@
+.rewardstatus {
+  background-color: #ffffff;
+  padding: 1.432rem 9.722rem 0 7.29rem;
+  width: auto;
+  height: 90%;
+}
+.rewardstatus .rewardstatus-head {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.75rem;
+  line-height: 150%;
+  color: #6764ff;
+}
+.rewardstatus .rewardstatus-desc {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 0.97rem;
+  line-height: 159%;
+  color: rgba(0, 0, 0, 0.6980392157);
+}
+.rewardstatus .rewardstatus-search {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.97rem;
+  line-height: 150%;
+  color: #6764ff;
+  padding: 1.122rem 0;
+}
+.rewardstatus .rewardstatus-search button {
+  font-size: 0.97rem;
+  font-weight: 500;
+  padding: 0.313rem 1.563rem;
+  border-radius: 30px;
+  margin-left: 0.625rem;
+}
+.rewardstatus .rewardstatus-unlock {
+  height: 33rem;
+  overflow-y: scroll;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  padding: 0 1rem 0 0;
+}
+.rewardstatus .rewardstatus-unlock::-webkit-scrollbar {
+  display: none;
+}/*# sourceMappingURL=RewardStatus.css.map */
